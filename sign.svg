@@ -14,7 +14,6 @@
     </text>
 
     <script type="application/ecmascript">
-        <![CDATA[
         function getBrowserInfo() {
             const ua = navigator.userAgent;
             let browser, version;
@@ -104,6 +103,5 @@
 
         // Update the signature on load
         updateSignature();
-        ]]>
     </script>
 </svg>
